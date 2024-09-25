@@ -10,6 +10,6 @@ rm -rf ENC0D3
 
 https://github.com/Henryinxid3/ENC0D3.git
 
-cd ENCODE
+cd ENC0D3
 
 python3 encode.py
