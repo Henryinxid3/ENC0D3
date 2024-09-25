@@ -6,7 +6,7 @@ pkg install python
 
 pip install requests
 
-rm -rf ENCODE
+rm -rf ENC0D3
 
 https://github.com/Henryinxid3/ENC0D3.git
 
