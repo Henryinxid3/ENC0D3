@@ -12,4 +12,4 @@ git clone https://github.com/Henryinxid3/ENC0D3.git
 
 cd ENC0D3
 
-python3 encode.py
+python3 ENC.py
